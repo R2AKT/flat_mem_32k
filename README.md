@@ -1,2 +1,18 @@
 # flat_mem_32k
-Flat memory board for CPU_8080. 32kB = 8k ROM + 8k EEPROM/RAM + 8k EEPROM/RAM + 8k RAM
+32k flat (linear) memory board: 8k ROM + 8k EEPROM/RAM + 8k EEPROM/RAM + 8k RAM.
+For connecting to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+
+ROM - 8k;
+PROM - 8/16k;
+RAM - 16/8k.
+
+Status: not tested!
+
+Плата плоской (линейной) памяти на 8к.
+Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+
+ПЗУ - 8кб;
+ППЗУ - 8/16кб;
+ОЗУ - 16/8кб.
+
+Статус: не проверено!
