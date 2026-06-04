@@ -3,7 +3,7 @@ License addendum - https://github.com/R2AKT/flat_mem_32k/blob/main/Addendum.txt
 # flat_mem_32k
 <img src="flat_memory_32k_top.png">
 32k flat (linear) memory board: 8k ROM + 8k EEPROM/RAM + 8k EEPROM/RAM + 8k RAM.
-For connecting to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 ROM - 8k;
 PROM - 8/16k;
